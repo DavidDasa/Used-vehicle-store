@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\Yad2_Cars\Yad2_Cars\bin\Debug\Yad2_Cars.exe.config
+C:\Users\Admin\source\repos\Yad2_Cars\Yad2_Cars\bin\Debug\Yad2_Cars.exe
+C:\Users\Admin\source\repos\Yad2_Cars\Yad2_Cars\bin\Debug\Yad2_Cars.pdb
+C:\Users\Admin\source\repos\Yad2_Cars\Yad2_Cars\obj\Debug\Yad2_Cars.Properties.Resources.resources
+C:\Users\Admin\source\repos\Yad2_Cars\Yad2_Cars\obj\Debug\Yad2_Cars.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Yad2_Cars\Yad2_Cars\obj\Debug\Yad2_Cars.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Yad2_Cars\Yad2_Cars\obj\Debug\Yad2_Cars.exe
+C:\Users\Admin\source\repos\Yad2_Cars\Yad2_Cars\obj\Debug\Yad2_Cars.pdb
+C:\Users\Admin\source\repos\Yad2_Cars\Yad2_Cars\obj\Debug\Yad2_Cars.Form1.resources
+C:\Users\Admin\source\repos\Yad2_Cars\Yad2_Cars\obj\Debug\Yad2_Cars.csproj.AssemblyReference.cache
